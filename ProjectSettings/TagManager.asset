@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ladder
+  - Monster
+  - Weapon
+  - LadderTop
+  - Item
+  - Skill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Monster
+  - Weapon
+  - Skill
+  - Ladder
+  - Minimap
+  - Item
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 695299365
+    locked: 0
+  - name: back
+    uniqueID: 310106007
+    locked: 0
+  - name: middle
+    uniqueID: 909706277
+    locked: 0
+  - name: front
+    uniqueID: 2875932551
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4536165618330721803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3936199895945420372}
+  - component: {fileID: 8144058329655449803}
+  m_Layer: 12
+  m_Name: PropItem
+  m_TagString: Item
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3936199895945420372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4536165618330721803}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8144058329655449803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4536165618330721803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8310546b4f7e7874b85d38bdee693c4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  potion: {fileID: 3051968381924466719, guid: 0fe4bf2cfa7686543b7a457f6d1db292, type: 3}
+  rageScroll: {fileID: 3051968381924466719, guid: 2b630699cbd880a42bf2b73da6d297e8, type: 3}
+  tacticalScroll: {fileID: 3051968381924466719, guid: bb941d4e05ddd7b4181b17017cf7f3b4, type: 3}
+  survialScroll: {fileID: 3051968381924466719, guid: 5e934c5f74eb0d44ab7e717f87145eb8, type: 3}
+  coin: {fileID: 7407355649097305821, guid: d34cf20e501fd7141b5dc8571722de0f, type: 3}
+  easterEggDiary: {fileID: 1093157134746774283, guid: ea78fd55d420a6440a72445f0087c4fe, type: 3}
